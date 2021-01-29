@@ -3,9 +3,10 @@
   height: 100px;
   position: relative;
   width: 100px;
+  border-radius: 50%;
 }
 .face {
-  font-family: "courier new", serif;
+  font-family: 'courier new', serif;
   font-size: 2.5em;
   font-weight: bold;
   left: 50%;
